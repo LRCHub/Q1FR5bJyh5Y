@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "モノマネ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-03-12T20:44:32.508350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モノマネ",
+      "artist": "Creep Hyp",
+      "has_synced": false,
+      "path": "select/01_モノマネ_Creep_Hyp.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モノマネ",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/02_モノマネ_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モノマネ - Monomane",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/03_モノマネ_-_Monomane_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モノマネ",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/pl_01_モノマネ_CreepHyp.txt"
+    }
+  ]
+}
